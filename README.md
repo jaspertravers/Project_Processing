@@ -36,7 +36,6 @@ Current Inspirations:
   
   sortvis.org
 
-
 ####  Installation:
 
   Grab the linux archive from [here](https://processing.org/download/?processing).

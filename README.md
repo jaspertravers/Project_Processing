@@ -24,6 +24,12 @@ Current Inspirations:
   Examples:
   
     sortvis.org
+
+  Building and running (using ellipse testfile):
     
-More comming, and feel free to add anything you like or reformat this readme.
-  
+    processing-java --sketch=sketches/ellipse --run
+
+  This assumes you have processing-java (or a link to it) in your PATH env
+  variable.   
+
+More coming, and feel free to add anything you like or reformat this readme.

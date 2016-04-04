@@ -6,14 +6,14 @@ Current Inspirations:
 ---------------------
 ---------------------
 
-###  Interactive displays with strong GUI usage:
+####  Interactive displays with strong GUI usage:
   
     http://stevecrayons.com/pendulum/
   
     http://stevecrayons.com/sines/
 
   
-###  Ideals:
+####  Ideals:
   
     http://worrydream.com/#!/LearnableProgramming
   
@@ -22,19 +22,19 @@ Current Inspirations:
     http://worrydream.com/#
 
     
-###  Learning:
+####  Learning:
   
     http://natureofcode.com/book/introduction/
 
     
-###  Examples:
+####  Examples:
   
     sortvis.org
 
 
-###  Installation:
+####  Installation:
 
-  Grab the linux archive from [here](https://processing.org/download/?processing)
+  Grab the linux archive from [here](https://processing.org/download/?processing).
   Extract it with
     
     tar -xzvf [archive name]
@@ -52,7 +52,7 @@ Current Inspirations:
   (most likely your downloads folder)
 
 
-###  Building and running (using ellipse testfile):
+####  Building and running (using ellipse testfile):
     
     processing-java --sketch=sketches/ellipse --run
 

@@ -1,5 +1,5 @@
 # Project_Processing
-A group project to invent together with Processing
+A group project to invent together with Processing (as a first step, more to come!)
 
 Current Inspirations:
 
@@ -24,4 +24,6 @@ Current Inspirations:
   Examples:
   
     sortvis.org
+    
+More comming, and feel free to add anything you like or reformat this readme.
   

@@ -27,6 +27,12 @@ Current Inspirations:
     http://natureofcode.com/book/introduction/
 
     
+####  Community:
+
+  https://www.reddit.com/r/processing
+  
+  https://www.reddit.com/r/creativecoding
+  
 ####  Examples:
   
     sortvis.org

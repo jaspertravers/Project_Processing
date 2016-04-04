@@ -1,21 +1,19 @@
 # Project_Processing
-A group project to invent together with Processing (as a first step, more to come!)
+*A group project to invent together with Processing (as a first step, more to
+come!)*
 
 Current Inspirations:
 ---------------------
 ---------------------
 
-  Interactive displays with strong GUI usage:
-  -------------------------------------------
+###  Interactive displays with strong GUI usage:
   
     http://stevecrayons.com/pendulum/
   
     http://stevecrayons.com/sines/
 
-  -------------------------------------------
   
-  Ideals:
-  -------
+###  Ideals:
   
     http://worrydream.com/#!/LearnableProgramming
   
@@ -23,24 +21,18 @@ Current Inspirations:
     
     http://worrydream.com/#
 
-  ---
     
-  Learning:
-  ---------
+###  Learning:
   
     http://natureofcode.com/book/introduction/
 
-  ---
     
-  Examples:
-  ---------
+###  Examples:
   
     sortvis.org
 
-  ---
 
-  Installation:
-  -------------
+###  Installation:
 
   Grab the linux archive from [here](https://processing.org/download/?processing)
   Extract it with
@@ -59,10 +51,8 @@ Current Inspirations:
   sure to never delete the extracted folder, wherever that may happen to be
   (most likely your downloads folder)
 
-  ---
 
-  Building and running (using ellipse testfile):
-  ----------------------------------------------
+###  Building and running (using ellipse testfile):
     
     processing-java --sketch=sketches/ellipse --run
 
@@ -71,4 +61,4 @@ Current Inspirations:
 
   ---
 
-More coming, and feel free to add anything you like or reformat this readme.
+*More coming, and feel free to add anything you like or reformat this readme.*

@@ -34,7 +34,11 @@ Current Inspirations:
   
 ####  Examples:
   
-  sortvis.org
+  http://sortvis.org
+
+####  Processing-Specific Examples:
+  
+  http://processing.org/examples/
 
 ####  Installation:
 

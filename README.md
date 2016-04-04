@@ -8,25 +8,24 @@ Current Inspirations:
 
 ####  Interactive displays with strong GUI usage:
   
-    http://stevecrayons.com/pendulum/
+  http://stevecrayons.com/pendulum/
   
-    http://stevecrayons.com/sines/
+  http://stevecrayons.com/sines/
 
   
 ####  Ideals:
   
-    http://worrydream.com/#!/LearnableProgramming
+  http://worrydream.com/#!/LearnableProgramming
   
-    http://worrydream.com/#!/KillMath
-    
-    http://worrydream.com/#
+  http://worrydream.com/#!/KillMath
+
+  http://worrydream.com/#
 
     
 ####  Learning:
   
-    http://natureofcode.com/book/introduction/
+  http://natureofcode.com/book/introduction/
 
-    
 ####  Community:
 
   https://www.reddit.com/r/processing
@@ -35,7 +34,7 @@ Current Inspirations:
   
 ####  Examples:
   
-    sortvis.org
+  sortvis.org
 
 
 ####  Installation:

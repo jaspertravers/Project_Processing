@@ -2,6 +2,8 @@
 *A group project to invent together with Processing (as a first step, more to
 come!)*
 
+Making a webpage out of a project or two this weekend (5/28-5/29) if any of you want to join!
+
 Current Inspirations:
 ---------------------
 ---------------------
